@@ -526,7 +526,7 @@ const Home: React.FC = () => {
       </section>
 
       {/* Our Approach Section */}
-      <section className="bg-stone-200 py-16 px-4">
+      <section className="bg-stone-100 py-16 px-4">
         <div className="max-w-7xl mx-auto text-center mb-12">
           <h2 className="text-4xl font-bold text-stone-800 mb-4">
             Our Approach: Clear & Streamlined
