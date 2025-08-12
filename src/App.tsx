@@ -62,7 +62,6 @@ const App: React.FC = () => {
               e.currentTarget.src = 'https://via.placeholder.com/128x128?text=Logo'; // Fallback image
             }}
           />
-          <p className="mt-4 text-gray-600">Loading...</p>
         </div>
       </div>
     );
